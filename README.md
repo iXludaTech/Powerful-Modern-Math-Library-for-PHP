@@ -1,4 +1,4 @@
-![MathPHP Logo](https://github.com/iXludaTech/math-php/blob/master/docs/image/MathPHPLogo.png?raw=true)
+![MathPHP Logo](https://raw.githubusercontent.com/markrogoyski/math-php/refs/heads/master/docs/image/MathPHPLogo.png)
 
 ### MathPHP - Powerful Modern Math Library for PHP iXluda-Tech
 
